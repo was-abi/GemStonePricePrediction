@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/e3b70049952648b09e542430d4d7b477/artifacts
+end_time: 1726119754672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3b70049952648b09e542430d4d7b477
+run_name: fortunate-perch-743
+run_uuid: e3b70049952648b09e542430d4d7b477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726119736026
+status: 3
+tags: []
+user_id: Namrata G Varam
