@@ -28,7 +28,7 @@ class ModelEvaluation:
              model_path=os.path.join("artifacts","model.pkl")
              model=load_object(model_path)
 
-             #mlflow.set_registry_uri("")
+             #mlflow.set_registry_uri("") SInce we're doing this local only just comment it our, not going to push my model in s3 or other cloud repo
              
              logging.info("model has register")
 

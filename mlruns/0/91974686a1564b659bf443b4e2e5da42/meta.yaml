@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/91974686a1564b659bf443b4e2e5da42/artifacts
+end_time: 1726310323156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91974686a1564b659bf443b4e2e5da42
+run_name: bold-fowl-613
+run_uuid: 91974686a1564b659bf443b4e2e5da42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726310306366
+status: 3
+tags: []
+user_id: Namrata G Varam
